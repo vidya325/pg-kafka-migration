@@ -1,0 +1,11 @@
+[
+  {
+    "key": "UKZU7TZF7MHS63QJ",
+    "description": "Cluster API key for Atlantis to Terraform resources within the default environment",
+    "owner": "sa-g922qn",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-gn2vkm",
+    "created": "2023-04-07T19:07:25Z"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "autm.progress.delta.v0": {
+    "partitions_count": 12,
+    "config": null
+  },
+  "ful.internal-case-conversation.comp.v0": {
+    "partitions_count": 24,
+    "config": null
+  },
+  "ful.internal-cases.comp.v0": {
+    "partitions_count": 24,
+    "config": null
+  },
+  "ful.vendor-referral.fact.v0": {
+    "partitions_count": 12,
+    "config": null
+  },
+  "pg.eng.experimental.fulfillment.internal-case-changed.v0": {
+    "partitions_count": 30,
+    "config": null
+  }
+}

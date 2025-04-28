@@ -1,0 +1,46 @@
+{
+  "_confluent-ksql-pksqlc-k17zgquery_CTAS_QUERYABLE_AUTOMATIONS_EVENTS_TBL_9-KsqlTopic-Reduce-changelog": {
+    "partitions_count": 12,
+    "config": null
+  },
+  "autm.progress.delta.v0": {
+    "partitions_count": 12,
+    "config": null
+  },
+  "ful.internal-case-conversation.comp.v0": {
+    "partitions_count": 24,
+    "config": null
+  },
+  "ful.internal-cases.comp.v0": {
+    "partitions_count": 24,
+    "config": null
+  },
+  "ful.vendor-referral.fact.v0": {
+    "partitions_count": 12,
+    "config": null
+  },
+  "pg.eng.experimental.fulfillment.internal-case-changed.v0": {
+    "partitions_count": 30,
+    "config": null
+  },
+  "pksqlc-k17zg-processing-log": {
+    "partitions_count": 8,
+    "config": null
+  },
+  "pksqlc-k17zgAUTOMATIONS_ACTIONS_STARTED": {
+    "partitions_count": 12,
+    "config": null
+  },
+  "pksqlc-k17zgAUTOMATIONS_ACTIONS_SUCCEEDED": {
+    "partitions_count": 12,
+    "config": null
+  },
+  "pksqlc-k17zgQUERYABLE_AUTOMATIONS_EVENTS_TBL": {
+    "partitions_count": 12,
+    "config": null
+  },
+  "pksqlc-z55y3-processing-log": {
+    "partitions_count": 8,
+    "config": null
+  }
+}

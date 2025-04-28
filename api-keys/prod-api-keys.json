@@ -1,0 +1,119 @@
+[
+  {
+    "key": "2NGZ7QBYUHXOS4Z7",
+    "description": "API key for kafka cluster lkc-1jqgp6",
+    "owner": "sa-8g2vor",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-06-14T18:46:08Z"
+  },
+  {
+    "key": "3VJXZ4TEQF5SNI5I",
+    "description": "API key for partner-communicator-service",
+    "owner": "sa-qpq9k2",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-04-06T17:50:13Z"
+  },
+  {
+    "key": "42VIMOHMPENFUFV4",
+    "description": "API key for kafka cluster lkc-1jqgp6",
+    "owner": "sa-15nzrj",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-07-17T17:40:15Z"
+  },
+  {
+    "key": "7ZLXQGN6S5XWWAVF",
+    "description": "",
+    "owner": "sa-qpq3g7",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-04-10T16:41:10Z"
+  },
+  {
+    "key": "CTZZ27JRPLNTTRJ5",
+    "description": "API Key for hotline.writer service",
+    "owner": "sa-g92j6n",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-04-06T17:47:03Z"
+  },
+  {
+    "key": "FPY6VM3OUJAXKDUK",
+    "description": "Cluster API key for Atlantis to Terraform resources within the Production environment",
+    "owner": "sa-g922qn",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-04-07T12:49:36Z"
+  },
+  {
+    "key": "HHTAXYWBKQM4GOU2",
+    "description": "API key for kafka cluster lkc-1jqgp6",
+    "owner": "sa-g92j6n",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-05-24T19:53:20Z"
+  },
+  {
+    "key": "MPLMWIITHXIUH2QG",
+    "description": "API key for kafka cluster lkc-1jqgp6",
+    "owner": "sa-oz9xqo",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-06-14T19:24:31Z"
+  },
+  {
+    "key": "O5CWWZVAQSOOEZOJ",
+    "description": "API key for the policygenius service",
+    "owner": "sa-1nk0zz",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-04-06T17:49:22Z"
+  },
+  {
+    "key": "RVFDFCEZWDAEFMT5",
+    "description": "API key for kafka cluster lkc-1jqgp6",
+    "owner": "sa-1nk0zz",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-05-24T19:53:20Z"
+  },
+  {
+    "key": "SV4UIA2DA5RKNH3X",
+    "description": "API key for kafka cluster lkc-1jqgp6",
+    "owner": "sa-zjm6mz",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-06-20T19:41:28Z"
+  },
+  {
+    "key": "XQARPM2R773AAA6S",
+    "description": "API key for kafka cluster lkc-1jqgp6",
+    "owner": "sa-nrknov",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-07-17T17:40:15Z"
+  },
+  {
+    "key": "YWV4NEE4Y2KLOL6Y",
+    "description": "API key for kafka cluster lkc-1jqgp6",
+    "owner": "sa-x6wxjx",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-1jqgp6",
+    "created": "2023-08-09T19:38:59Z"
+  }
+]

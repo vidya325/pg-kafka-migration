@@ -1,0 +1,191 @@
+[
+  {
+    "key": "3C3CBAHUSB6UJU6M",
+    "description": "API Key for hotline.writer service",
+    "owner": "sa-g92j6n",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-04-06T15:16:29Z"
+  },
+  {
+    "key": "46C2GCSUOUMCIQ72",
+    "description": "pg-kafka-migration",
+    "owner": "u-p7d9vo",
+    "owner_email": "vidya.sonawane@policygenius.com",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2025-04-25T12:18:42Z"
+  },
+  {
+    "key": "73ZNIDTHCVKYFXEM",
+    "description": "API key for kafka cluster lkc-w53vq9",
+    "owner": "sa-15nzrj",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-07-17T17:40:17Z"
+  },
+  {
+    "key": "B6O4XW735VLHSJIS",
+    "description": "Staging API key for tasks service",
+    "owner": "sa-qpq3g7",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-04-10T16:39:23Z"
+  },
+  {
+    "key": "J2BGKDFSWZK7VI6B",
+    "description": "Example consumer",
+    "owner": "sa-21zq3o",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-05-23T00:53:29Z"
+  },
+  {
+    "key": "KYDB7WOVSKOMROHJ",
+    "description": "API key for partner-communicator-service",
+    "owner": "sa-qpq9k2",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-04-06T15:56:54Z"
+  },
+  {
+    "key": "L62GOZPUDCX64SI2",
+    "description": "API key for the policygenius service",
+    "owner": "sa-1nk0zz",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-04-06T15:53:27Z"
+  },
+  {
+    "key": "L633QQNVJHJWCIWH",
+    "description": "API key for kafka cluster lkc-w53vq9",
+    "owner": "sa-zjm6mz",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-06-20T19:41:26Z"
+  },
+  {
+    "key": "MA5GBQROFLHBVPGL",
+    "description": "API key for kafka cluster lkc-w53vq9",
+    "owner": "sa-8g2vor",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-06-05T18:07:28Z"
+  },
+  {
+    "key": "MHLOQSNYOUV2JHW5",
+    "description": "API key for kafka cluster lkc-w53vq9",
+    "owner": "sa-g92j6n",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-05-24T18:48:59Z"
+  },
+  {
+    "key": "QJJNIPUID52VBD3M",
+    "description": "",
+    "owner": "u-036yg9",
+    "owner_email": "max.north@policygenius.com",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2024-04-17T17:56:18Z"
+  },
+  {
+    "key": "QXGUZ6KM2LYOD2E3",
+    "description": "",
+    "owner": "u-036yg9",
+    "owner_email": "max.north@policygenius.com",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-06-07T13:53:51Z"
+  },
+  {
+    "key": "RBQPU6WFKZRTQBHG",
+    "description": "",
+    "owner": "u-036yg9",
+    "owner_email": "max.north@policygenius.com",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-06-07T15:30:25Z"
+  },
+  {
+    "key": "RDJICQTK3FZ2OHDY",
+    "description": "",
+    "owner": "u-p7d9vo",
+    "owner_email": "vidya.sonawane@policygenius.com",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2025-04-25T12:17:26Z"
+  },
+  {
+    "key": "RNLLUFTZPM3IOPRI",
+    "description": "API key for kafka cluster lkc-w53vq9",
+    "owner": "sa-1nk0zz",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-05-24T18:48:59Z"
+  },
+  {
+    "key": "RQTKSHCILFFXINUE",
+    "description": "",
+    "owner": "u-036yg9",
+    "owner_email": "max.north@policygenius.com",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2024-04-17T17:35:23Z"
+  },
+  {
+    "key": "T7WGDEXDFEEA62LC",
+    "description": "API key for kafka cluster lkc-w53vq9",
+    "owner": "sa-nrknov",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-07-17T17:40:16Z"
+  },
+  {
+    "key": "WFKBXZKQRJHOBHZV",
+    "description": "",
+    "owner": "sa-g922qn",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-04-10T20:51:23Z"
+  },
+  {
+    "key": "WKX33PB5YHKGOKJR",
+    "description": "API key for kafka cluster lkc-w53vq9",
+    "owner": "sa-oz9xqo",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-06-14T19:24:29Z"
+  },
+  {
+    "key": "ZAKDKG6TYSCLSAFG",
+    "description": "API key for kafka cluster lkc-w53vq9",
+    "owner": "sa-x6wxjx",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-08-09T19:38:55Z"
+  },
+  {
+    "key": "ZC7GL4PBXX2ZSCD2",
+    "description": "Cluster API key for Atlantis to Terraform resources within the Staging environment",
+    "owner": "sa-g922qn",
+    "owner_email": "\u003cservice account\u003e",
+    "resource_type": "kafka",
+    "resource": "lkc-w53vq9",
+    "created": "2023-04-07T12:40:08Z"
+  }
+]
